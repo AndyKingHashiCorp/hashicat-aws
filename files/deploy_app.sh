@@ -20,3 +20,4 @@ cat << EOM > /var/www/html/index.html
 EOM
 
 echo "Script complete."
+Andy King
