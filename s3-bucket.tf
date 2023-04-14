@@ -1,7 +1,7 @@
 module "s3_bucket" {
   source = "terraform-aws-modules/s3-bucket/aws"
 
-  bucket = "bucket_${prefix}"
+  bucket = "bucket_andy"
   acl    = "private"
 
   versioning = {
